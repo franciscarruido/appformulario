@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">appformulario</string>
+    <string name="titulo">Introduce tus datos</string>
+    <string name="nombre">Francis Carruido</string>
+    <string name="formato_fecha">03/01/1981</string>
+    <string name="telefono">09955</string>
+    <string name="email">francis.c@com</string>
+    <string name="descripcion">Hello</string>
+
+    <string name="h_nombre">Nombre Completo</string>
+    <string name="h_formato_fecha">Fecha de Nacimiento</string>
+    <string name="h_telefono">Teléfono</string>
+    <string name="h_email">Correo Electrónico</string>
+    <string name="h_descripcion">Descripción</string>
+
+
+    <string name="icon_nombre">icon_nombre</string>
+    <string name="icon_telefono">icon_telefono</string>
+    <string name="icon_email">icon_email</string>
+    <string name="icon_descripcion">icon_descripcion</string>
+
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_editar">Editar Datos</string>
+
+    <string name="titulo_2">Corfirmar Datos</string>
+</resources>
